@@ -116,7 +116,7 @@ sections:
       title: Recent Publications
       text: |-
         {{% callout note %}}
-        Quickly discover more publications on my [google scholar page](https://scholar.google.com/citations?user=bi8ExI4AAAAJ&hl=en).
+        Quickly discover more publications on my [Google scholar](https://scholar.google.com/citations?user=bi8ExI4AAAAJ&hl=en).
         {{% /callout %}}
       filters:
         folders:

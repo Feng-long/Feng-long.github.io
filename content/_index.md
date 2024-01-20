@@ -43,6 +43,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: exper
     content:
       title: Experience
       # Date format for experience
@@ -110,17 +111,7 @@ sections:
       columns: '2'
  
   - block: collection
-    id: featured
-    content:
-      title: Featured Publications
-      filters:
-        folders:
-          - publication
-        featured_only: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
+    id: pub
     content:
       title: Recent Publications
       text: |-

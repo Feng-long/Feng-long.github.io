@@ -58,7 +58,7 @@ sections:
         - title: Team Leader of Audio Intelligence
           company: Xiaohongshu
           company_url: ''
-          company_logo: org-x
+          company_logo: xhs
           location: Beijing
           date_start: '2021-10-29'
           date_end: ''

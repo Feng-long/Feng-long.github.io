@@ -79,7 +79,7 @@ sections:
           date_end: '2012-1-6'
           description: Conduting fundamental research on speech synthesis and recognition
     design:
-      columns: '3'
+      columns: '2'
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.

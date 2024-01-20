@@ -70,14 +70,6 @@ sections:
           date_start: '2018-10-29'
           date_end: '2021-10-10'
           description: transferring speech synthesis technology from research to several products at WeChat
-        - title: Intern
-          company: Microsoft Research Asia
-          company_url: ''
-          company_logo: org-x
-          location: Beijing
-          date_start: '2018-10-28'
-          date_end: '2012-1-6'
-          description: Conduting fundamental research on speech synthesis and recognition
     design:
       columns: '2'
   - block: accomplishments

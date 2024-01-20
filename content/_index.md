@@ -57,25 +57,28 @@ sections:
       items:
         - title: Team Leader
           company: Xiaohongshu
-          company_url: 'www.xiaohongshu.com'
+          company_url: 'https://www.xiaohongshu.com'
           company_logo: xhs
           location: Beijing
-          date_start: '2021-10-29'
+          date_start: '2021-10'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: Responsible for research and product development in speech, music and audio intelligence at xiaohongshu.
+        - title: Senior Researcher 
+          company: 
+          company_url: 'https://www.wechat.com/'
+          company_logo: xhs
+          location: Beijing
+          date_start: '2018-10'
+          date_end: '2021-10'
+          description: transferring speech synthesis technology from research to several products at WeChat.
+        - title: Intern
+          company: 
+          company_url: 'https://www.microsoft.com/'
+          company_logo: xhs
+          location: Beijing
+          date_start: '2018-10'
+          date_end: '2012-1'
+          description: Conduting fundamental research on speech synthesis and recognition.
     design:
       columns: '2'
   - block: accomplishments

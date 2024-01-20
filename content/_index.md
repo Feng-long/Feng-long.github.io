@@ -70,7 +70,7 @@ sections:
           location: Beijing
           date_start: '2018-10-29'
           date_end: '2021-10-10'
-          description: Rransferring speech synthesis technology from research to several products at WeChat
+          description: Transferring speech synthesis technology from research to several products at WeChat
         - title: Intern
           company: Microsoft Research Asia
           company_url: ''

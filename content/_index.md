@@ -66,7 +66,7 @@ sections:
         - title: Senior Researcher
           company: Wechat, Tencent
           company_url: ''
-          company_logo: org-x
+          company_logo: wechat
           location: Beijing
           date_start: '2018-10-29'
           date_end: '2021-10-10'
@@ -74,7 +74,7 @@ sections:
         - title: Intern
           company: Microsoft Research Asia
           company_url: ''
-          company_logo: org-x
+          company_logo: ms
           location: Beijing
           date_start: '2012-01-06'
           date_end: '2018-10-29'

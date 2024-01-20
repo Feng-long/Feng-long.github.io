@@ -74,7 +74,7 @@ sections:
         - title: Intern
           company: Microsoft Research Asia
           company_url: ''
-          company_logo: ms
+          company_logo: ms1
           location: Beijing
           date_start: '2012-01-06'
           date_end: '2018-10-29'

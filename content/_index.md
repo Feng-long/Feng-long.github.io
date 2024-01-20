@@ -70,6 +70,14 @@ sections:
           date_start: '2018-10-29'
           date_end: '2021-10-10'
           description: transferring speech synthesis technology from research to several products at WeChat
+        - title: Senior Researcher
+          company: Wechat, Tencent
+          company_url: ''
+          company_logo: org-x
+          location: Beijing
+          date_start: '2018-10-29'
+          date_end: '2021-10-10'
+          description: transferring speech synthesis technology from research to several products at WeChat
     design:
       columns: '2'
   - block: accomplishments

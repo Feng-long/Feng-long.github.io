@@ -42,14 +42,7 @@ sections:
       title: Biography
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
-  - block: skills
-    content:
-      title: Skills
-      text: ''
-      # Choose a user to display skills from (a folder name within `content/authors/`)
-      username: admin
-    design:
-      columns: '1'
+
   - block: experience
     content:
       title: Experience
@@ -62,12 +55,12 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+        - title: Team Leader
+          company: Xiaohongshu
+          company_url: 'www.xiaohongshu.com'
+          company_logo: xhs
+          location: Beijing
+          date_start: '2021-10-29'
           date_end: ''
           description: |2-
               Responsibilities include:

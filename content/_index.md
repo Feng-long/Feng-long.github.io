@@ -58,7 +58,7 @@ sections:
         - title: Team Leader
           company: Xiaohongshu
           company_url: 'https://www.xiaohongshu.com'
-          company_logo: xhs
+          company_logo: org-gc
           location: Beijing
           date_start: '2021-10'
           date_end: ''
@@ -66,7 +66,7 @@ sections:
         - title: Senior Researcher 
           company: 
           company_url: 'https://www.wechat.com/'
-          company_logo: xhs
+          company_logo: org-x
           location: Beijing
           date_start: '2018-10'
           date_end: '2021-10'
@@ -74,7 +74,7 @@ sections:
         - title: Intern
           company: 
           company_url: 'https://www.microsoft.com/'
-          company_logo: xhs
+          company_logo: org-gc
           location: Beijing
           date_start: '2018-10'
           date_end: '2012-1'
